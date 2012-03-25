@@ -1,0 +1,26 @@
+(pl-PL), for en-US see below!
+--== Might of Janitor ==--
+Witaj w Ÿród³ach gry MOJ!
+
+Aby skompilowaæ grê otwórz plik main.gmk w programie Game Maker 8 PRO.
+
+UWAGA!
+Poniewa¿ czêœæ plików jest zarchiwizowane w pliku main.gmk mo¿esz je z niego
+wypakowaæ. Pozosta³e, jeszcze nie u¿yte znajduj¹ siê w repozytorium GitHuba
+przemub/Might-of-Janitor-photovideo.
+
+Bugi (i najlepiej patche), pomys³y itp. proszê wysy³aæ przez interfejs GitHuba
+(repozytorium: przemub/Might-of-Janitor), a przed zg³oszeniem zaktualizowaæ grê.
+
+(en-US)
+--== Might of Janitor ==--
+Hello in sources of MOJ game!
+
+To compile run main.gmk file in Game Maker 8 PRO.
+
+CAUTION!
+Part of used resources was archived in main.gmk and you can extract them. Other
+and not (yet) used in game are in GitHub przemub/Might-of-Janitor repo.
+
+Bugs (and, if you can, patches :), ideas (also with patches ;)) please report
+by GitHub interface, but earlier check for upgrades.
