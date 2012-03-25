@@ -7,10 +7,10 @@ Aby skompilować grę otwórz plik main.gmk w programie Game Maker 8 PRO.
 UWAGA!
 Ponieważ część plików jest zarchiwizowane w pliku main.gmk możesz je z niego
 wypakować. Pozostałe, jeszcze nie użyte znajdują się w repozytorium GitHuba
-przemub/Might-of-Janitor-photovideo.
+DiAMEnT-NS-21/Might-of-Janitor-photovideo.
 
 Bugi (i najlepiej patche), pomysły itp. proszę wysyłać przez interfejs GitHuba
-(repozytorium: przemub/Might-of-Janitor), a przed zgłoszeniem zaktualizować grę.
+(repozytorium: DiAMEnT-NS-21/Might-of-Janitor), a przed zgłoszeniem zaktualizować grę.
 
 (en-US)
 --== Might of Janitor ==--
@@ -20,7 +20,8 @@ To compile run main.gmk file in Game Maker 8 PRO.
 
 CAUTION!
 Part of used resources was archived in main.gmk and you can extract them. Other
-and not (yet) used in game are in GitHub przemub/Might-of-Janitor repo.
+and not (yet) used in game are in GitHub DiAMEnT-NS-21/Might-of-Janitor-photovideo
+repo.
 
 Bugs (and, if you can, patches :), ideas (also with patches ;)) please report
-by GitHub interface, but earlier check for upgrades.
+by GitHub interface, but earlier check for upgrades (repo: DiAMEnT-NS-21/Might-of-Janitor).
