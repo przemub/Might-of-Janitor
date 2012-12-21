@@ -1,4 +1,3 @@
-﻿(pl-PL), for en-US see below!
 --== Might of Janitor ==--
 Witaj w źródłach gry MOJ!
 
@@ -8,14 +7,3 @@ Bugi (i najlepiej patche), pomysły itp. proszę wysyłać przez interfejs GitHu
 (repozytorium: przemub/Might-of-Janitor), a przed zgłoszeniem zaktualizować grę.
 
 Źródła gry Ms. Pacman znajdują się w osobnym repozytorium (przemub/Might-of-Janitor-Pacman).
-
-(en-US)
---== Might of Janitor ==--
-Hello in sources of MOJ game!
-
-To compile run main.gmk file in Game Maker 8 PRO.
-
-Bugs (and, if you can, patches :), ideas (also with patches ;)) please report
-by GitHub interface, but earlier check for upgrades (repo: przemub/Might-of-Janitor).
-
-Sources of Ms. Pacman game are in separate repo (przemub/Might-of-Janitor-Pacman).
